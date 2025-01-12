@@ -54,3 +54,6 @@ Additional Information:
 Dependencies: Requires cryptography for encryption operations and PyQt5 for the GUI.
 Intended Use: Designed for personal or professional scenarios where file encryption is necessary to protect sensitive data.
 This tool emphasizes simplicity and robust encryption, making it suitable for users with varying levels of technical expertise.
+
+Example usage:
+
