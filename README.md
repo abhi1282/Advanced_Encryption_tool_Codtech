@@ -56,4 +56,6 @@ Intended Use: Designed for personal or professional scenarios where file encrypt
 This tool emphasizes simplicity and robust encryption, making it suitable for users with varying levels of technical expertise.
 
 Example usage:
+![Screenshot 2025-01-13 004812](https://github.com/user-attachments/assets/51d1d0cb-879f-4712-93bc-ef12aa9c2396)
+
 
